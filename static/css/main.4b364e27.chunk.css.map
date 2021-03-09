@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAGA,mBACE,UACF,CACA,yBACE,sBACF","file":"main.4b364e27.chunk.css","sourcesContent":["input{\n  margin: 5px;\n}\n.list-object{\n  margin: 5px;\n}\nbutton:focus, input:focus{\n  outline: none !important;\n}\n"]}
